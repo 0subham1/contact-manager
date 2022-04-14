@@ -1,5 +1,5 @@
 import React from "react";
-import user from "../images/goku.png";
+import goku from "../image/goku.jpg";
 
 const ContactCard = (props) => {
   const { id, name, email } = props.contact;
